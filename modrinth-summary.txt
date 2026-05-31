@@ -1,0 +1,17 @@
+FreeL00k adds a full 360-degree freelook camera to Minecraft Forge 1.8.9.
+
+Hold Left Alt (default, rebindable) to freely rotate your view without changing your movement direction -- perfect for scouting ahead, checking your surroundings while running, or using a third-person perspective with full camera control.
+
+Unlike basic freelook mods, FreeL00k syncs the camera position with your look direction, so the view stays realistic around corners and blocks. The player model stays frozen -- no head or body rotation.
+
+Features:
+- Full 360 horizontal and vertical rotation (no pitch limit)
+- Configurable max yaw: 90, 180, or 360 degrees
+- Hold or toggle mode
+- Choose your default perspective: keep current, third-person back, or third-person front
+- Works with inverted mouse
+- Config GUI in the Forge mod list
+- Player model stays completely frozen during freelook
+- Proper camera positioning for realistic views around obstacles
+
+I recommend using third-person back (F5) perspective. Bind the key in Controls > FreeL00k.
