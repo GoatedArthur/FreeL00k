@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "freelook",
+    "name": "FreeL00k",
+    "description": "360\u00b0 freelook mod for Minecraft 1.8.9. Hold the freelook key to freely rotate your camera without changing your movement direction.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Arthur"],
+    "credits": "Arthur",
+    "logoFile": "assets/freelook/icon.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
